@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	accent-color: var(--accent);
+}
+
+:root {
+	--dark: #000;
+	--light: #eee;
+	font-size: calc(max(1em, min(1.25em, 3vmin)));
+}
+
+:focus-visible {
+	outline-offset: 2px;
+	outline: 2px solid var(--accent);
+}
+
+p {
+	text-wrap: pretty;
+}
+
+body {
+	background-color: var(--dark);
+	color: var(--light);
+
+	font-family: "Plus Jakarta Sans", "Inter", Helvetica, Arial, sans-serif;
+	line-height: 150%;
+	
+	min-height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 2em;
+}
