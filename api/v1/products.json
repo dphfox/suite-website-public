@@ -1,0 +1,54 @@
+{
+	"formatVersion": 1,
+	"products": {
+		"relight": {
+			"version": {
+				"major": 1,
+				"minor": 0,
+				"patch": 0
+			},
+			"displayName": "Elttob Relight",
+			"tagline": "Laser-fast lighting design.",
+			"robloxIcons": [
+				{
+					"size": 64,
+					"variants": {
+						"light": "rbxassetid://15054340183",
+						"dark": "rbxassetid://15054340341",
+						"mono": "rbxassetid://15054340040"
+					}
+				},
+				{
+					"size": 512,
+					"variants": {
+						"light": "rbxassetid://15054339630",
+						"dark": "rbxassetid://15054339874",
+						"mono": "rbxassetid://15054339369"
+					}
+				}
+			],
+			"accentHue": 90,
+			"links": [
+				{
+					"displayName": "Buy on Roblox",
+					"urls": [
+						{ "type": "roblox", "url": "" }
+					]
+				},
+				{
+					"displayName": "Buy standalone",
+					"urls": [
+						{ "type": "itch", "url": "" }
+					]
+				},
+				{
+					"displayName": "Learn more",
+					"urls": [
+						{ "type": "website", "url": "" },
+						{ "type": "robloxDevforum", "url": "" }
+					]
+				}
+			]
+		}
+	}
+}

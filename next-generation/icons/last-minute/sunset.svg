@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Iconset-Hybrid/Icon795">
+<path id="Primary" fill-rule="evenodd" clip-rule="evenodd" d="M8 3V0H7V3H8ZM11 7.5C11 7.66976 10.9879 7.8367 10.9646 8H4.03544C4.01209 7.8367 4 7.66976 4 7.5C4 5.567 5.567 4 7.5 4C9.433 4 11 5.567 11 7.5ZM13.1569 2.55027L11.0356 4.67159L10.3285 3.96448L12.4498 1.84316L13.1569 2.55027ZM12 8H15V7H12V8ZM3 8H0V7H3V8ZM1.84312 2.55023L3.96444 4.67155L4.67155 3.96444L2.55023 1.84312L1.84312 2.55023Z" fill="#EEEEEE" style="fill:#EEEEEE;fill:color(display-p3 0.9333 0.9333 0.9333);fill-opacity:1;"/>
+<path id="Secondary" d="M0 9H15V14.5C15 15.3284 14.3284 16 13.5 16H1.5C0.671573 16 0 15.3284 0 14.5V9Z" fill="#EEEEEE" fill-opacity="0.6" style="fill:#EEEEEE;fill:color(display-p3 0.9333 0.9333 0.9333);fill-opacity:0.6;"/>
+</g>
+</svg>
