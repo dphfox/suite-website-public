@@ -57,8 +57,6 @@ a {
 		justify-content: center;
 		gap: 0.75rem;
 		text-decoration: none;
-		background-color: var(--accent);
-		color: var(--dark);
 		padding: 0.5rem;
 		font-weight: 600;
 		line-height: 100%;
@@ -68,7 +66,18 @@ a {
 		/* Horizontal optical alignment */
 		padding-right: calc(0.75rem + 0.1em);
 
-		&:hover {
+		background-color: color-mix(in srgb, var(--accent) 10%, transparent);
+		color: color-mix(in srgb, var(--accent) 60%, transparent);
+
+		cursor: not-allowed;
+
+		&[href] {
+			background-color: var(--accent);
+			color: var(--dark);
+			cursor: pointer;
+		}
+
+		&[href]:hover {
 			background-color: color-mix(in srgb, var(--accent) 80%, black);
 		}
 
