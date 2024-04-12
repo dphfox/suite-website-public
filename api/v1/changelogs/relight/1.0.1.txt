@@ -1,0 +1,7 @@
+This patch version improves the user experience when using Elttob Relight in very large scenes, and improves how Elttob
+Relight interacts with Roblox Studio's undo history in certain edge cases.
+
+• Increases the drag raycast limit from 1,000 to 10,000 studs
+• Increases the shadow raycast limit from 1,000 to 10,000 studs
+• Drag actions execute properly when ChangeHistoryService:TryBeginRecording() fails to return a recording ID
+• Calls to ChangeHistoryService are now protected to avoid uncaught errors when subtle interactions with external plugins cause the undo history to become confused.
