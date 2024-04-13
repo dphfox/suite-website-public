@@ -1,0 +1,9 @@
+This minor version introduces keyboard shortcuts for power users.
+
+• Press <b>Tab</b> to switch between dragging the Sun and Moon
+• Press <b>Ctrl + (number)</b> to switch modes (Direct, Face, Bounce...)
+• Press <b>G</b> to toggle gizmos
+
+These are currently hardcoded via UserInputService, as PluginActions do not support default key bindings. However, it's possible that PluginAction support could be explored in the future.
+
+If you have thoughts on this, feedback would be appreciated over on the Elttob Relight DevForum thread. Thank you :)
