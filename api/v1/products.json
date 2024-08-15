@@ -4,7 +4,7 @@
 		"relight": {
 			"version": {
 				"major": 1,
-				"minor": 1,
+				"minor": 2,
 				"patch": 0
 			},
 			"displayName": "Elttob Relight",
@@ -28,6 +28,55 @@
 				}
 			],
 			"accentHue": 90,
+			"links": [
+				{
+					"displayName": "Buy on Roblox",
+					"urls": [
+						{ "type": "roblox", "url": "" }
+					]
+				},
+				{
+					"displayName": "Buy standalone",
+					"urls": [
+						{ "type": "itch", "url": "" }
+					]
+				},
+				{
+					"displayName": "Learn more",
+					"urls": [
+						{ "type": "website", "url": "" },
+						{ "type": "robloxDevforum", "url": "" }
+					]
+				}
+			]
+		},
+		"reclass": {
+			"version": {
+				"major": 1,
+				"minor": 2,
+				"patch": 0
+			},
+			"displayName": "Elttob Reclass",
+			"tagline": "Flow between instance types.",
+			"robloxIcons": [
+				{
+					"size": 64,
+					"variants": {
+						"light": "rbxassetid://15341824719",
+						"dark": "rbxassetid://15341824959",
+						"mono": "rbxassetid://15341825237"
+					}
+				},
+				{
+					"size": 512,
+					"variants": {
+						"light": "rbxassetid://15341824719",
+						"dark": "rbxassetid://15341824959",
+						"mono": "rbxassetid://15341825237"
+					}
+				}
+			],
+			"accentHue": 260,
 			"links": [
 				{
 					"displayName": "Buy on Roblox",

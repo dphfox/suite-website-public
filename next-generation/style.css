@@ -3,6 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	accent-color: var(--accent);
+	scroll-behavior: smooth;
 }
 
 :root {

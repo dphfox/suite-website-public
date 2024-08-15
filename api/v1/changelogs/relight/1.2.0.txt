@@ -1,0 +1,7 @@
+This minor version aligns Elttob Relight with the latest version of the Elttob Suite plugin framework, including the latest updates to the Sensation design system.
+
+This keeps Elttob Relight in lock step with Elttob Reclass, the second product refresh from Studio Elttob to use this plugin framework. You can learn more over on the Elttob Reclass DevForum post.
+
+Aside from subtle design tweaks, there are no user-facing changes. If there are any bugs or unexpected changes, please do reach out on the DevForum.
+
+Many thanks, and have a nice day :)
